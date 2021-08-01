@@ -1,0 +1,141 @@
+{
+    "main": {
+        "name": "George Korpas",
+        "description": "I am a theoretical physicist working on convex optimization methods for quantum computing and sometimes... topological quantum field theory...",
+        "image": "profilepic.jpg",
+        "bio": "My background is in theoretical physics and mathematics. I hold a PhD in Mathematics from Trinity College Dublin on the topic of topological quantum field theory. Afterwards, I had short posts at Champalimaud Foundation in Lisbon and at the National University of Singapore working on algebraic machine learning and aspects of topological quantum field theories and topological string theory. Currently I am a Research Fellow at the Optimization Group of the Department of Computer Science at the at the Czech Technical University in Prague. My work currently focuses on convex optimization methods for quantum computing and quantum information theory.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "george.korpas@gmail.com",
+        "phone": "",
+        "github": "https://github.com/georgekorpas",
+        "project": "https://github.com/",
+        "address": {
+            "street": "Department Of Computer Science",
+            "city": "Czech Technical University in Prague",
+            "state": ""
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://drive.google.com/file/d/1msVfhec7Js80cjBF6lod9LoZ-FspLl4b/view?usp=sharing",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/georgios-korpas/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/george_gorbs/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/georgekorpas",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Trinity College Dublin",
+                "degree": "PhD in Mathematics",
+                "graduated": "September 2019",
+                "description": "Thesis: Modern aspects of topologically twisted gauge theories: Polynomial invariants and mock modular forms"
+            },
+            {
+                "school": "Universidad Autonoma de Madrid",
+                "degree": "Masters in Theoretical Physics",
+                "graduated": "October 2014",
+                "description": "Thesis: Holographic renormalization for non-conformal branes "
+            },
+            {
+                "school": "Lancaster University",
+                "degree": "BSc in Theoretical Physics",
+                "graduated": "July 2012",
+                "description": "Final year project: Introduction to quantum electrodynamics (QED)"
+            }
+        ],
+        "work": [
+            {
+                "company": "Czech Technical University in Prague, Department of Computer Science",
+                "department":"Department of Computer Science",
+                "title": "Research Fellow",
+                "years": "December 2020 - Present",
+                "description": "Convex optimization methods for applications in quantum computing, quantum information theory and robust statistical learning"
+            },
+            {
+                "company": "National University of Singapore, Department Of Physics ",
+                "title": "Visiting Research Fellow",
+                "years": "September 2020 - April 2021",
+                "description": "Topological quantum field theories, mock modular forms and topological A-models"
+            },
+            {
+                "company": "Champalimaud Foundation",
+                "title": "Research Fellow",
+                "years": "June 2019 - December 2020",
+                "description": "Algebraic machine learning, category theory and machine learning."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "VueJs",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "1707.06235",
+                "category": "Donaldson-Witten theory and indefinite theta functions",
+                "image": "project1.png",
+                "url": "https://arxiv.org/abs/1707.06235"
+            },
+            {
+                "title": "1810.07057",
+                "category": "Donaldson-Witten theory, surface operators and mock modular forms",
+                "image": "project1.png",
+                "url": "https://arxiv.org/abs/1810.07057"
+            },
+            {
+                "title": "1901.03540",
+                "category": "Renormalization and BRST symmetry in Donaldson-Witten theory",
+                "image": "project1.png",
+                "url": "https://arxiv.org/abs/1901.03540"
+            },
+            {
+                "title": "1910.13410",
+                "category": "Mocking the u-plane integral",
+                "image": "project1.png",
+                "url": "https://arxiv.org/abs/1910.13410"
+            }
+        ]
+    }
+}
